@@ -3,20 +3,19 @@
 
 ## Potential Insights and Decisions Based on the Call Center Dashboard:
 1. **Focus on Billing Queries**:
-   - Given that Billing Questions are the top reason for calls, there should be enhanced training for agents on handling billing queries efficiently.
-   - Implementing more self-service options on the website for billing-related issues could reduce call volume.
+   - Since billing questions account for the majority of calls, agents should receive advanced training to handle these queries more effectively.
+   - Adding more self-service options on the website for billing issues may help reduce the number of calls.
 
-2. **Improvement in SLA Compliance**:
-   - Since a significant number of calls are below SLA, efforts should be made to improve response times.
+2. **Enhancing SLA Compliance**:
+   - Since a significant number of calls are below SLA, efforts should be made to improve response times..
 
 3. **Sentiment Improvement**:
-   - The high volume of negative and very negative sentiment calls suggests a need for better customer service and resolution processes.
-   - Implement feedback mechanisms to understand the reasons for negative sentiments and work on those areas.
+   - The high volume number of calls with negative and very negative sentiments indicates a need for improved customer service and resolution processes.
+   - Introduce feedback mechanisms to understand the causes of negative sentiments and work on those areas.
 
 4. **Channel Optimization**:
-   - With Call Center being the most used channel, there may be an opportunity to divert some traffic to more cost-effective channels.
-   - Enhance the capabilities of both the web and chatbot channels to handle more traffic.
+   - Since the Call Center is the most utilized channel, consider shifting some traffic to more cost-effective channels such as the web and chatbot and improve both channels to handle a greater volume of inquiries.
 
-5. **State Strategies**:
-   - Target states with the highest call volumes for special attention.
-   - Provide more localized support or targeted communication to address common issues in those regions.
+5. **State-Specific Strategies**:
+   - Focus on states with the highest call volumes to provide them with special attention.
+   - Offer more localized support or targeted communication to resolve common issues in these regions.
