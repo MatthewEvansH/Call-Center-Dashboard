@@ -1,7 +1,7 @@
-# Call Centre Dashboard (Visualized using MS.Excel)
-![image](https://github.com/MatthewEvansH/Call-Center-Dashboard/assets/85978388/9b922ba4-1ad0-413f-94f2-0b897e359c7e)
+# Call Center Dashboard (Visualized using MS.Excel)
+![image](https://github.com/MatthewEvansH/Call-Center-Dashboard/assets/85978388/deaec670-4bbd-4229-b72b-fcc79e21e339)
 
-## Potential Insights and Decisions Based on the Call Centre Dashboard:
+## Potential Insights and Decisions Based on the Call Center Dashboard:
 1. **Focus on Billing Queries**:
    - Given that Billing Questions are the top reason for calls, there should be enhanced training for agents on handling billing queries efficiently.
    - Implementing more self-service options on the website for billing-related issues could reduce call volume.
@@ -14,7 +14,7 @@
    - Implement feedback mechanisms to understand the reasons for negative sentiments and work on those areas.
 
 4. **Channel Optimization**:
-   - With Call Centre being the most used channel, there may be an opportunity to divert some traffic to more cost-effective channels.
+   - With Call Center being the most used channel, there may be an opportunity to divert some traffic to more cost-effective channels.
    - Enhance the capabilities of both the web and chatbot channels to handle more traffic.
 
 5. **State Strategies**:
