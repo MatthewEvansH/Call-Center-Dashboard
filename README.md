@@ -1,7 +1,7 @@
 # Call Center Dashboard (Visualized using MS.Excel)
 ![image](https://github.com/MatthewEvansH/Call-Center-Dashboard/assets/85978388/deaec670-4bbd-4229-b72b-fcc79e21e339)
 
-## Potential Insights and Decisions Based on the Call Center Dashboard:
+## Potential Insights and Actions Based on the Call Center Dashboard:
 1. **Focus on Billing Queries**:
    - Since billing questions account for the majority of calls, agents should receive advanced training to handle these queries more effectively.
    - Adding more self-service options on the website for billing issues may help reduce the number of calls.
